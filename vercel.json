@@ -9,7 +9,7 @@
   ],
   "headers": [
       {
-        "source": "/calon_mahasiswa/(.*)",
+        "source": "/calonmahasiswa/(.*)",
         "headers": [
           { "key": "Access-Control-Allow-Credentials", "value": "true" },
           { "key": "Access-Control-Allow-Origin", "value": "*" },

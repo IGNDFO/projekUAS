@@ -19,7 +19,7 @@ const mahasiswaRoutes = require('./routes/calon_mahasiswa')
 
 
 // (8) app.use (mendaftarkan middleware baru ke Express)
-app.use('/calon_mahasiswa', mahasiswaRoutes)
+app.use('/calonmahasiswa', mahasiswaRoutes)
 
 
 // (3) koneksi ke database mongodb
