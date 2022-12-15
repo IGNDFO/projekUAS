@@ -18,6 +18,8 @@
         ]
       }
     ],
-    "buildCommand": "next build"  
+    "buildCommand": "next build",
+    "cleanUrls": true,
+    "devCommand": "next dev"  
 }
 
